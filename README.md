@@ -2,9 +2,9 @@
 This repository contains a visualization solution for the dataset Canadian crime index.
 
 Video report URL: <br/>
-  Youtube: 
+  Youtube: <br/>
     https://youtu.be/K0cBBH8TU_4 <br/>
-  Youku: 
+  Youku: <br/>
     Password: iv01 <br/>
     https://v.youku.com/v_show/id_XNTk5NzMxNjI5Ng==.html <br/>
 
