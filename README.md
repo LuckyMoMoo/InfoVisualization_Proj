@@ -1,6 +1,13 @@
 # InfoVisualization_Proj
 This repository contains a visualization solution for the dataset Canadian crime index.
 
+Video report URL: <br/>
+  Youtube: 
+    https://youtu.be/K0cBBH8TU_4
+  Youku: 
+    Password: iv01
+    https://v.youku.com/v_show/id_XNTk5NzMxNjI5Ng==.html
+
 Present your final project in a 3-minute video. This video focuses on what can be achieved/discovered thanks to your visualization. You will submit your video to Brightspace.
 Your presentation should contain (suggested times in brackets):
 [~10s]
